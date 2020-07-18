@@ -1,7 +1,7 @@
 import java.util .*;
 class Interest
 {
-    public static void main (String argu[ ])
+    public static void main (String args[ ])
 {
     double p, rate, t, SimpleInterest,CompoundInterest;
     Scanner sc=new Scanner(System. in);
